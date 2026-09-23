@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1
+
+- Marketplace moved to the Imgntech organization.
+
 ## 1.2.0
 
 - Native Codex and Claude marketplace installation without the Python installer.

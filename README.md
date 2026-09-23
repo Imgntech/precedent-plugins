@@ -1,22 +1,22 @@
 # Precedent plugins
 
-Version 1.2.0. Connects to https://precedent.biz/mcp. Contains skills and remote MCP configuration only. No Python, npm package, local server, credentials, or application source.
+Version 1.2.1. Connects to https://precedent.biz/mcp. Contains skills and remote MCP configuration only. No Python, npm package, local server, credentials, or application source.
 
 ## Install
 
-Add https://github.com/gordonbyron/precedent-plugins as a marketplace in your client's plugin settings, then install Precedent. In Claude use Customize → Plugins → Personal → Add marketplace. In Codex use the plugin marketplace controls.
+Add https://github.com/Imgntech/precedent-plugins as a marketplace in your client's plugin settings, then install Precedent. In Claude use Customize → Plugins → Personal → Add marketplace. In Codex use the plugin marketplace controls.
 
 CLI equivalents:
 
 ```sh
-codex plugin marketplace add gordonbyron/precedent-plugins
+codex plugin marketplace add Imgntech/precedent-plugins
 codex plugin add precedent@precedent
 ```
 
 Inside Claude Code:
 
 ```text
-/plugin marketplace add gordonbyron/precedent-plugins
+/plugin marketplace add Imgntech/precedent-plugins
 /plugin install precedent@precedent
 ```
 
