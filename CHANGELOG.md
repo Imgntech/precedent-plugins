@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+
+- Use the Precedent brand icon in plugin cards and the composer.
+
 ## 1.2.1
 
 - Marketplace moved to the Imgntech organization.

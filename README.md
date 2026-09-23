@@ -1,6 +1,6 @@
 # Precedent plugins
 
-Version 1.2.1. Connects to https://precedent.biz/mcp. Contains skills and remote MCP configuration only. No Python, npm package, local server, credentials, or application source.
+Version 1.2.2. Connects to https://precedent.biz/mcp. Contains skills and remote MCP configuration only. No Python, npm package, local server, credentials, or application source.
 
 ## Install
 
