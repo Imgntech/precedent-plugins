@@ -1,0 +1,15 @@
+{
+  "name": "precedent",
+  "owner": {
+    "name": "Precedent"
+  },
+  "plugins": [
+    {
+      "name": "precedent",
+      "source": "./plugins/precedent"
+    }
+  ],
+  "metadata": {
+    "description": "Team decisions and project context for your assistant."
+  }
+}

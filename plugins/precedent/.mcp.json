@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "precedent": {
+      "type": "http",
+      "url": "https://precedent.biz/mcp"
+    }
+  }
+}

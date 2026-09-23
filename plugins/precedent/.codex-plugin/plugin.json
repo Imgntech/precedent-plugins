@@ -1,0 +1,23 @@
+{
+  "name": "precedent",
+  "version": "1.2.0",
+  "description": "Search your team's decisions, cite their rationale, and prepare drafts with agreement.",
+  "author": {
+    "name": "Precedent"
+  },
+  "homepage": "https://precedent.biz/docs/agents",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Precedent",
+    "shortDescription": "Your team's decisions, inside your assistant",
+    "longDescription": "Search your team's decisions, cite their rationale, and prepare drafts with agreement.",
+    "developerName": "Precedent",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Use Precedent to explain the decisions that constrain this project."
+  }
+}

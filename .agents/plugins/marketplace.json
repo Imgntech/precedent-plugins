@@ -1,0 +1,20 @@
+{
+  "name": "precedent",
+  "interface": {
+    "displayName": "Precedent"
+  },
+  "plugins": [
+    {
+      "name": "precedent",
+      "source": {
+        "source": "local",
+        "path": "./plugins/precedent"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
